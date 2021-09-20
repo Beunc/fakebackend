@@ -1,0 +1,5 @@
+{
+	"admin": [{"id": 1, "title": "beunc", "author": "god"}],
+	"users": [{"id": 1, "nick": "testuser","game":"Witcher 3"}],
+	"test": [{}]
+}
